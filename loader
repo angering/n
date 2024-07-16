@@ -1,4 +1,4 @@
-script_key = getgenv().Script.['Core']['Key'];
+script_key = getgenv().Script['Core']['Key'];
 --[[
     This script has been licensed using Luarmor
       Luarmor v3.8b, Lua whitelisting system
